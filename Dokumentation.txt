@@ -1,3 +1,17 @@
+1. 
+Forside
+    UML og OOAD Forklaring af Marcus W
+
+2. 
+Indholdsfortegnelse
+    1. Forside
+    2. Indholdsfortegnelse
+    3. Svar på Øvelse: 1
+    4. Svar på Øvelse: 2
+    5. Konklusion
+    
+
+3.
 Øvelse: 1. 
     Forklarning af "UML"
        Uml er en grafisk måde at lave diagrammer på design og udvikling af løsninger
@@ -17,4 +31,26 @@
     Forklarning af "Class Diagram"
         Et nok det mest tekniske diagram hvoraf der vises metoder, variabler og objekt navne
 
+4.
 Øvelse: 2
+    Hvad er UML?
+        Det er en standardiseret måde at vise grafiske diagrammer med opgygningen af IT løsninger
+
+    Hvilke fordel er der ved at bruge UML?
+        Det kan bruges på alle sprog ikke kun engelsk hvilket gør det smart
+
+    Hvor bruger man oftest UML til?
+        Det bruges ofte til at designe visuelle diagrammer i forskellige typer at tekniske detaljer til støere IT løsninger
+
+    Hvad er forskellen på ER diagram og Klassediagram?
+        Et Klassediagram er et meget teknisk diagram hvoraf objekters metoder og variabler vises 
+        Et ER diagram viser mere de overordnede forbindelser mellem forskellige objekter
+
+    Hvilke værktøj bruger man til at vise sin ide designe over programmet? 
+        Jeg ville nok bruge et Mockup diagram til grafisk visning til kunden
+        og et FlowChart diagram da det var en god balance mellem tekniske detaljer og forstålihed for kunden
+
+
+5. 
+Konklusion
+Jeg har lært hvad forskellen på UML og OOAD er og de forskellige diagram typer og hvorfor det er smart at bruge
