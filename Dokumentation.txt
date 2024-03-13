@@ -1,0 +1,20 @@
+Øvelse: 1. 
+    Forklarning af "UML"
+       Uml er en grafisk måde at lave diagrammer på design og udvikling af løsninger
+
+    Forklarning af "Use Case"
+        Er en generaliseret og overskueligt diagram af løsningsdesign som kunden nemt kan forstå
+    
+    Forklarning af "FlowChart"
+        Er mere en teknisk diagram som bruges til at vise de forskellige veje en løsning/program kan fortage for eksempel (Hvis en bruger gør X skal programmet gøre Y ellers skal programet gøre Z)
+
+    Forklarning af "Mockup / Wireframe"
+        Er en grov tegning på designet af løsningen for eksempel hvor de forskellige elementer skal se ud og hvor de skal være
+
+    Forklarning af "Entity Relationship"
+        Er et diagram som viser forbindelser mellem forskellige objekter
+
+    Forklarning af "Class Diagram"
+        Et nok det mest tekniske diagram hvoraf der vises metoder, variabler og objekt navne
+
+Øvelse: 2
